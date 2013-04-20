@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/caevyn/luaChocolatey</projectUrl>
     <iconUrl>https://code.google.com/p/luaforwindows/logo?cct=1312896237</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Lua for Windows (LfW) combines Lua binaries, Lua libraries with a Lua-capable editor in a single install package for the Microsoft Windows operating system. LfW contains everything you need to write, run and debug Lua scripts on Windows. A wide variety of libraries and examples are included that are ready to use with Microsoft Windows. LfW runs on Windows 2000 and newer versions of Windows. Lua and its associated libraries are also available for other operating systems, so most scripts will be automatically cross-platform.
+    <description>Lua for Windows (LfW) combines Lua binaries, Lua libraries with a Lua-capable editor in a single install package for the Microsoft Windows operating system. LfW contains everything you need to write, run and debug Lua scripts on Windows. A wide variety of libraries and examples are included that are ready to use with Microsoft Windows. LfW runs on Windows 2000 and newer versions of Windows. Lua and its associated libraries are also available for other operating systems, so most scripts will be automatically cross-platform. See https://code.google.com/p/luaforwindows/
     </description>
     <summary>Unofficial package. Lua for Windows is a 'batteries included environment' for the Lua scripting language on Windows.</summary>
     <tags>lua luaforwindows</tags>
