@@ -4,6 +4,9 @@ An unnoficial package for Lua for Windows.
 See https://code.google.com/p/luaforwindows/ for what is included.
 Currently the package just installs to the default location %programfiles(x86)%\Lua\5.1
 
+An after thought of a versioning scheme for the package is the lua for windows version followed by a package version.
+I.e. for 5.1.4.46 the package version would be 5.1.4.461, 5.1.4.462 etc if you have a better suggestion please let me know.
+
 MIT license
 http://opensource.org/licenses/mit-license.php
 

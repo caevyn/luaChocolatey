@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Lua</id>
-    <version>5.1.4.46</version>
+    <version>5.1.4.461</version>
     <title>Lua For Windows</title>
     <authors>LuaForWindows</authors>
     <owners>Matt Murphy</owners>
