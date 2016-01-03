@@ -1,1 +1,1 @@
-Install-ChocolateyPackage 'lua' 'exe' '/VERYSILENT' 'http://luaforwindows.googlecode.com/files/LuaForWindows_v5.1.4-46.exe'
+Install-ChocolateyPackage 'lua' 'exe' '/VERYSILENT' 'https://github.com/rjpcomputing/luaforwindows/releases/download/v5.1.4-50/LuaForWindows_v5.1.4-50.exe'
