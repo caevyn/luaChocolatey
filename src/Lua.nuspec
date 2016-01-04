@@ -9,7 +9,7 @@
     <licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
     <projectUrl>https://github.com/rjpcomputing/luaforwindows/</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<iconUrl>url_here</iconUrl>
+	<iconUrl>https://raw.githubusercontent.com/caevyn/luaChocolatey/master/lua-logo.gif</iconUrl>
 	<packageSourceUrl>https://github.com/caevyn/luaChocolatey</packageSourceUrl>
 	<projectSourceUrl>https://github.com/rjpcomputing/luaforwindows</projectSourceUrl>
     <description>Lua for Windows (LfW) combines Lua binaries, Lua libraries with a Lua-capable editor in a single install package for the Microsoft Windows operating system. LfW contains everything you need to write, run and debug Lua scripts on Windows. A wide variety of libraries and examples are included that are ready to use with Microsoft Windows. LfW runs on Windows 2000 and newer versions of Windows. Lua and its associated libraries are also available for other operating systems, so most scripts will be automatically cross-platform. See https://github.com/rjpcomputing/luaforwindows/
