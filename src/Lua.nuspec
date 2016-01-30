@@ -19,6 +19,7 @@
     <tags>lua luaforwindows admin</tags>
     <dependencies>
       <dependency id="chocolatey" version="0.9.9" />
+      <dependency id="vcredist2005" version="8.1.0.20160118" />
     </dependencies>
   </metadata>
 </package>
